@@ -1,0 +1,76 @@
+#Titulo{
+    background-color: lightblue;
+
+}
+
+#Pachaqtec{
+    text-align: center;
+}
+
+
+#Sobremi{
+    background-color: rgb(202, 242, 255);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#Tsobremi{
+    text-align: center;
+}
+
+#vercv {
+    background-color: blueviolet;
+    text-emphasis-color: white;
+}
+
+
+#Misskills{
+    background-color: rgb(189, 46, 189);
+    text-align: center;
+}
+
+#HTML {
+    text-align: left;
+}
+
+
+#CSS   {
+    text-align: center;
+}
+
+#Portafolio{
+    background-color: yellow;
+    text-align: center;
+}
+
+
+#Clientes{
+    background-color: rgb(132, 132, 187);
+    text-align: center;
+}
+
+
+#Contacto{
+    background-color: skyblue;
+    text-align: center;
+}
+
+#nombre{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#apellido{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#email{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#telefono{
+    margin-left: 10px;
+    margin-right: 10px;
+}
