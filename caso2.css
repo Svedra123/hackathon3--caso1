@@ -1,0 +1,23 @@
+#nombre:focus {
+    background-color: aqua;
+}
+
+#apellido:focus {
+    background-color: rebeccapurple;
+}
+
+#edad:focus {
+    background-color: skyblue;
+}
+
+#sexo:focus {
+    background-color: red;
+}
+
+#DNI:focus {
+    background-color: coral;
+}
+
+#Correo:focus {
+    background-color: goldenrod;
+}
